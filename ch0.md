@@ -8,3 +8,5 @@ In this case:
 * **O** called _topologic structure_ or simply _topology_
 * any element from **X** called _dot_
 * any element from topology called _open set_
+
+Some examples of concrete topologies:
