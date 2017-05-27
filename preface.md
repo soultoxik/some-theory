@@ -6,6 +6,7 @@ Category theory - field of math, describing abstract structures with similar
 characteristics; slightly difficult to find simple and well-look examples for
 demonstration, so we well use less abstract and more concrete fields such as
 topology. So plan looks like this:
-1) learn some valuable minimum from topology
-2) same for homology theory
+1. learn some valuable minimum from topology
+2. same for homology theory
+
 Expected that reader knows some basics of set theory.
